@@ -1,2 +1,6 @@
-# itiscl-spr23-22-echo-bot
-Telegram bot using Yandex cloud functions
+# Telegram bot cloud function
+
+## Исходный код облачной функции телеграмм бота https://t.me/itiscl_spr23_22_bot
+
+### Функциональные возможности
+- Преобразует текстовое сообщение в верхний регистр
